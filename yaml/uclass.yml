@@ -16,8 +16,6 @@ specifiers:
     type: string
     position: main
     comment: |
-      Class Group must be something already registered, you can't put arbitrary strings in here.
-  
       Seems to be only used for the Add Component button within an actor.
     samples:
     - |
